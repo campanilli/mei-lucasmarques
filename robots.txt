@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lucasmarques-two.vercel.app/sitemap.xml
+Sitemap: https://lucasmarquespersonal.vercel.app/sitemap.xml
